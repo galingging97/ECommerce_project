@@ -91,12 +91,13 @@ img{
 
 .background{
     width: 95%;
-    height: 300px;
+    height: 500px;
     margin-left: 50px;
 }
 .poto1{
     width: 1822px;
-    height: 500px;
+    height: 700px;
+    background-repeat: repeat;
    
 }
 .diskon{
@@ -250,4 +251,438 @@ h2{
     font-weight: 700;
     font-size: 25px;
     margin-top: 50px;
+}
+
+/*CArds2*/
+.login2{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.satu1{
+    width: 16px;
+    height: 16px;
+}
+.dua2{
+    width: 56px;
+    height: 56px;
+}
+.bulat{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color:#FF2E2E ;
+    color: #FFFFFF;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-bottom: 52px;
+    margin-left: 80px;
+}
+/*Cards3*/
+.biru3{
+    width: 100%;
+    height: 80px;
+    background-color: #0D6EFD;
+    display: flex;
+    justify-content: space-between;
+}
+.rumah{
+    width: 500px;
+    height: 80px;
+    display: flex;
+    padding-left: 70px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.rumah2{
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.header2{
+    width: 500px;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 100px;
+}
+.user{
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.putih{
+    width: 100%;
+    height: 100px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+}
+.shop1{
+    font-weight: 700;
+    font-size: 50px;
+    color: #0D6EFD;
+    margin-right: 80px;
+}
+.chart{
+    font-weight: 400;
+    color: #0D6EFD;
+    font-size: 40px;
+    margin-right: 710px;
+}
+.form2{
+    width: 730px;
+    height: 55px;
+    background-color: #FFFFFF;
+    border: solid 1px #0D6EFD;
+    border-radius: 10px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.putih2{
+    width: 95%;
+    height: 650px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-top: 40px;
+}
+.garis{
+    width: 200px;
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+button{
+    width: 25px;
+    height: 25px;
+    border: solid 2px #9F9F9F;
+    background-color: #FFFFFF;
+    margin-right: 20px;
+}
+h4{
+   color: #9F9F9F; 
+   font-size: 20px;
+   font-weight: 400;
+   margin-left: 20px;
+}
+.pesanan{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    margin-bottom: 50px;
+
+}
+.kotak5{
+    width: 160px;
+    height: 115px;
+    background-color:#C4C4C4 ;
+    margin-right: 50px;
+}
+.kotak6{
+    width: 160px;
+    height: 115px;
+}
+.buku{
+    font-weight: 700;
+    font-size: 35px;
+    color: #333333;
+}
+.harga{
+    font-weight: 300;
+    font-size: 18px;
+    color: #333333;
+}
+.kotak7{
+    width: 100px;
+    color: #C4C4C4;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1200px;
+}
+.pesan{
+    width: 100%;
+    display: flex;
+    margin-left: 80px;
+}
+.pesan1{
+    width: 170px;
+    height: 45px;
+    background-color: #5097FF;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.pesan2{
+    width: 170px;
+    height: 45px;
+    border: solid 1px #FF2E2E;
+    color:#FF2E2E;
+    font-weight: 300;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.rekomen{
+    font-weight: 400;
+    font-size: 50px;
+    color: #333333;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+/*card4*/
+.whislist{
+    font-weight: 400;
+    font-size: 50px;
+    color: #333333;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+/*profil*/
+.profil{
+    width: 93%;
+    height: 900px;
+    background:#FFFFFF ;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    display: flex;
+    padding-top: 100px;
+    
+}
+.user1{
+    width: 35%;
+    height: 700px;
+
+    
+}
+.propil2{
+    width: 70%;
+    height: 700px;
+  
+}
+.user2{
+    width: 220px;
+    height: 220px;
+    margin-left: 190px;
+}
+.ui{
+    margin-left:240px;
+}
+.ganti{
+    width: 19px;
+    height: 20px;
+    background-color:#FFFFFF;
+}
+.poltak{
+    width: 100%;
+    padding-left: 213px;
+    margin-top: 50px;
+}
+.gali{
+    margin-left: 5px;
+}
+.username{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 300px;
+}
+.username1{
+    font-weight: 400;
+    font-size: 20px;
+    color: #9F9F9F;
+    margin-right: 50px;
+}
+.input{
+    width: 500px;
+    height: 50px;
+    border: solid 2px #9F9F9F;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+.ps{
+    font-weight: 700;
+    font-size: 25px;
+    color: #000000;
+    margin-left: 200px;
+}
+.ipsum{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    margin-left: 200px;
+}
+.submit{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 200px;
+    margin-top: 100px;
+}
+.simpan{
+    background-color: #5097FF;
+    width: 170px;
+    height: 45px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+/*Daftar*/
+.daftar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.daftar1{
+    width: 80%;
+    height: 700px;
+    margin-top: 100px;
+    display: flex;
+}
+.tas{
+    width: 50%;
+    height:700px;
+}
+.daftar2{
+    width: 100%;
+    height: 700px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+.form4{
+    width: 800px;
+    height: 60px;
+    border:solid 2px #C4C4C4;
+    border-radius: 5px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.regis{
+    font-weight: 700;
+    font-size: 35px;
+    color: #0D6EFD;
+}
+.regis1{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D6EFD;
+}
+.daftar3{
+    width: 800px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.daftar4{
+    width: 800px;
+    height: 60px;
+    border-radius: 5px;
+    background-color:#0D6EFD ;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.daftar5{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+    margin-top: 20px;
+}
+/*Login*/
+.main {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #E5E5E5;
+    display: inline-block;
+  }
+.masuk{
+  width:545px;
+  height: 400px;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  padding-top: 100px;
+  margin-top: 100px;
+  margin-left: 670px;
+  margin-bottom: 50px;
+}
+hr {
+    width: 80%;
+    border: 1px solid black;
+    margin-left: 50px;
+}
+.masuk1{
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 28px;
+    text-align: center;
+    color: black;
+    padding: 8px;
+    font-weight: 200;
+ 
+}
+.masuk2{
+    width: 80%;
+    height: 60px;
+    margin-left: 50px;
+    background-color:#0D6EFD;
+    color: #F2F5C8;
+    cursor: pointer;
+    margin-top: 70px;
+}
+.daftar6{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.link{
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
 }

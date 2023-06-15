@@ -1,0 +1,7 @@
+export {default as Card} from "./Card"
+export {default as Cards2} from "./Cards2"
+export {default as Cards3} from "./Cards3"
+export {default as Cards4} from "./Cards4"
+export {default as Daftar} from "./Daftar"
+export {default as Login} from "./Login"
+export {default as Profil} from "./Profil"
